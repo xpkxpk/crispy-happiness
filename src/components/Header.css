@@ -1,0 +1,17 @@
+.Header {
+    position: fixed;
+    width: 100%;
+    padding: 50px 16px;
+    z-index: 100;
+}
+
+.HeaderContent {
+    max-width: 1280px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.MenuItems a {
+    margin-right: 20px;
+}
